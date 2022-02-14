@@ -5,5 +5,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-*Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+*Oon Arfiandwi, [oo.or.id](https://oo.or.id).  
 *Melika Candra, [Linkedin](https://www.linkedin.com/in/melika-candra/).
